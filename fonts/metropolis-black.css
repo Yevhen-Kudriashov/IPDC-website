@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Metropolis-Black';
+	src: url('../fonts/metropolis-black.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/metropolis-black.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/metropolis-black.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/metropolis-black.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/metropolis-black.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/metropolis-black.svg#metropolis-black') format('svg'); /* Chrome < 4, Legacy iOS */
+}
